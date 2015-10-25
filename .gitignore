@@ -1,0 +1,10 @@
+*.yaml
+*.md
+*.playground
+LICENSE
+*.txt
+.idea/
+lib/
+__pycache__/
+vendor.py
+appengine_config.py
